@@ -19,7 +19,7 @@ const Portfolio = () => {
       },
       hero: {
         greeting: "Hi, I'm",
-        name: 'Your Name',
+        name: 'Gobijan Nathakrishnan',
         title: 'Epitech Student',
         subtitle: 'Passionate Developer & Problem Solver',
         cta: 'View My Work'
@@ -61,7 +61,7 @@ const Portfolio = () => {
       },
       hero: {
         greeting: 'Bonjour, je suis',
-        name: 'Votre Nom',
+        name: 'Gobijan Nathakrishnan',
         title: 'Étudiant Epitech',
         subtitle: 'Développeur Passionné & Problem Solver',
         cta: 'Voir Mon Travail'
@@ -103,7 +103,7 @@ const Portfolio = () => {
       },
       hero: {
         greeting: 'Ciao, sono',
-        name: 'Il Tuo Nome',
+        name: 'Gobijan Nathakrishnan',
         title: 'Studente Epitech',
         subtitle: 'Sviluppatore Appassionato & Problem Solver',
         cta: 'Vedi il Mio Lavoro'
@@ -334,7 +334,7 @@ const Portfolio = () => {
           {/* Social Links */}
           <div className="flex justify-center space-x-6 mt-12">
             <a
-              href="https://github.com/yourusername"
+              href="https://github.com/GobyNathan"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-400 hover:text-cyan-400 transform hover:scale-110 transition-all duration-300"
@@ -342,7 +342,7 @@ const Portfolio = () => {
               <Github className="w-6 h-6" />
             </a>
             <a
-              href="https://linkedin.com/in/yourusername"
+              href="https://www.linkedin.com/in/gobijan/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-400 hover:text-cyan-400 transform hover:scale-110 transition-all duration-300"
@@ -350,7 +350,7 @@ const Portfolio = () => {
               <Linkedin className="w-6 h-6" />
             </a>
             <a
-              href="mailto:your.email@example.com"
+              href="mailto:gobijan.nathakrishnan@epitech.eu"
               className="text-gray-400 hover:text-cyan-400 transform hover:scale-110 transition-all duration-300"
             >
               <Mail className="w-6 h-6" />
